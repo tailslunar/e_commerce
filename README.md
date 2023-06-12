@@ -1,6 +1,7 @@
 # E-Commerce Backend API with JWT Authentication
 
 Before start using this app, it will be needed to create a .env file based on the existing .env_template
+
 After the setup of the .env file, just run the app with the command (run in the app base folder): *uvicorn main:app*
 
 If needed, to the setup of e-mail validation - a guide on how to use gmail to send app e-mails:
