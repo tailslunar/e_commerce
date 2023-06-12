@@ -8,4 +8,4 @@ And a service of temporary e-mils to use to receive e-mails and register users f
 
 https://temp-mail.org/pt/
 
-If needed, you can call me anytime in rodrigobsorrego@gmail.com ! =)
+If needed (ask for help, suggestions, etc), you can call me anytime in rodrigobsorrego@gmail.com ! =)
