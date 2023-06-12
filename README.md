@@ -1,3 +1,5 @@
+# E-Commerce Backend API with JWT Authentication
+
 Before start using this app, it will be needed to create a .env file based on the existing .env_template
 
 If needed, to the setup of e-mail validation - a guide on how to use gmail to send app e-mails:
