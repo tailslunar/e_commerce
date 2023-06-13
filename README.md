@@ -11,7 +11,7 @@ If needed, to the setup of e-mail validation - a guide on how to use gmail to se
 
 https://support.google.com/mail/answer/185833?hl=en
 
-And a service of temporary e-mils to use to receive e-mails and register users for testing:
+And a service of temporary e-mails to use to receive e-mails and register users for testing:
 
 https://temp-mail.org
 
